@@ -31,5 +31,6 @@
 ### ⟦ Languages I am currently learning ⟧:
 - <img src="https://cdn.discordapp.com/emojis/1032951803333050388.png?quality=lossless" width="16" heigth="16"/> C++ (Learning)
 - <img src="https://cdn.discordapp.com/emojis/1032951801667932220.png?quality=lossless" width="16" heigth="16"/> Rust (Learning)
+- Go (Learning)
 
 </p>
