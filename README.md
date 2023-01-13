@@ -15,7 +15,7 @@
 <div>
 <h2 align="center">⟬ About me ⟭</h2>
 </div>
-<p style="font-size:15px">I am a 19 year old from Australia who enjoys playing FPS and Open World games. I also occasionally code as a side hobby.</p>
+<p style="font-size:15px">I am 19 years old from Australia who enjoys playing FPS and Open World games. I occasionally code as a side hobby.</p>
 
 <br />
 
@@ -30,6 +30,5 @@
 
 ### ⟦ Languages I am currently learning ⟧:
 - <img src="https://cdn.discordapp.com/emojis/1032951803333050388.png?quality=lossless" width="16" heigth="16"/> C++ (Learning)
-- <img src="https://cdn.discordapp.com/emojis/1032951801667932220.png?quality=lossless" width="16" heigth="16"/> Rust (Learning)
 
 </p>
