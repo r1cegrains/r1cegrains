@@ -15,7 +15,7 @@
 <div>
 <h2 align="center">⟬ About me ⟭</h2>
 </div>
-<p style="font-size:15px">I am 19 years old from Australia who enjoys playing FPS and Open World games. I occasionally code as a side hobby.</p>
+<p style="font-size:15px">I am a 19 year old who likes to play FPS and Open World games. I occasionally code things here n there.</p>
 
 <br />
 
