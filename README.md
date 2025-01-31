@@ -4,23 +4,11 @@
     </a>
 </div>
 
-<div>
 <h2 align="center">⟬ About me ⟭</h2>
+
+<p align="center">👋 Hey, I'm ricegrains. An aspiring programmer eager to learn something new. I primarily use Python <img src="https://cdn.discordapp.com/emojis/1032951807137300541.png?quality=lossless" width="14" heigth="14"/></p>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=r1cegrains&include_all_commits=true&show_icons=true&line_height=20&theme=ayu-mirage" alt="ricegrains Stats">
+    
 </div>
-<p style="font-size:15px">I am a 19 year old who likes to play FPS and Open World games. I occasionally code things here n there.</p>
-
-<br />
-
-<div>
-<h2 align="center">⟬ Programming languages ⟭</h2>
-</div>
-<p>
-
-### ⟦ Languages I know ⟧:
-- <img src="https://cdn.discordapp.com/emojis/1032951807137300541.png?quality=lossless" width="16" heigth="16"/> Python
-- <img src="https://cdn.discordapp.com/emojis/1032951805019168808.png?quality=lossless" width="16" heigth="16"/> JavaScript
-
-### ⟦ Languages I am currently learning ⟧:
-- <img src="https://cdn.discordapp.com/emojis/1032951803333050388.png?quality=lossless" width="16" heigth="16"/> C++ (Learning)
-
-</p>
